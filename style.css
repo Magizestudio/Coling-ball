@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    background-color: #141414;
+}
+
+.main_frame {
+    width: 95.03695881731785vh;
+    height: 102.20485744456177vh;
+    background-color: #454545;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.download_btn {
+    width: 31.678986272439282vh;
+    height: 10.559662090813093vh;
+    border: none;
+    outline: 0;
+    background-color: #00aaff;
+    color: white;
+    font-size: 2.6399155227032733vh;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-family: sans-serif;
+}
+
+a {
+    color: transparent;
+}
+
+.download_btn:hover {
+    background-color: #00c3ff;
+}
+
+.window_img {
+    width: 58.07814149947202vh;
+    height: 43.82259767687434vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.game_name {
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.version_string {
+    text-align: center;
+    color: lime;
+    font-family: sans-serif;
+}
+
+.notifaction_h3 {
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+.information_box {
+    width: 58.07814149947202vh;
+    height: 29vh;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h3 {
+    font-family: sans-serif;
+}
